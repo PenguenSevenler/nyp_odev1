@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Homework1_Digits
+namespace sayı2
 {
     internal class Program
     {
-        static void Main(string[] args)
+        internal static void Main(string[] args)
         {
             Console.Write("input a number: ");
             int theNumber = Convert.ToInt32(Console.ReadLine());
@@ -41,24 +37,11 @@ namespace Homework1_Digits
 
             for(int i = 0; i < digitCounter; i++) 
             {
-                Console.Write("" + numberCase[i]);
+                Console.Write(numberCase[i]);
                 Console.Write("   ");
-
             }
 
-
-
-
-
-
-             Console.ReadLine();
-
-
-
-
-
-
-
+            Console.WriteLine();
         }
     }
 }

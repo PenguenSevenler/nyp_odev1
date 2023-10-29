@@ -1,7 +1,0 @@
-C:\vstudioprojects\Homework1_Digits\Homework1_Digits\obj\Debug\Homework1_Digits.csproj.AssemblyReference.cache
-C:\vstudioprojects\Homework1_Digits\Homework1_Digits\obj\Debug\Homework1_Digits.csproj.CoreCompileInputs.cache
-C:\vstudioprojects\Homework1_Digits\Homework1_Digits\bin\Debug\Homework1_Digits.exe.config
-C:\vstudioprojects\Homework1_Digits\Homework1_Digits\bin\Debug\Homework1_Digits.exe
-C:\vstudioprojects\Homework1_Digits\Homework1_Digits\bin\Debug\Homework1_Digits.pdb
-C:\vstudioprojects\Homework1_Digits\Homework1_Digits\obj\Debug\Homework1_Digits.exe
-C:\vstudioprojects\Homework1_Digits\Homework1_Digits\obj\Debug\Homework1_Digits.pdb
