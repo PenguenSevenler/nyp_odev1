@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace sayı2
+namespace soru2
 {
     internal class Program
     {
